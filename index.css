@@ -83,6 +83,12 @@ h1 {
 }
 
 
+.btn-clear{
+    position: absolute;
+    right: 70px;
+    top: 6px;
+}
+
 @media (max-width: 575px) {
     .btn-success {
         position: absolute;
